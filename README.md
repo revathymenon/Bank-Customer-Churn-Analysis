@@ -20,6 +20,7 @@ Using Pandas, Matplotlib, and Seaborn, perform data cleaning, exploratory data a
 
 📓 Jupyter Notebook - Development environment
 
+
 **🗂 Dataset Description**
 
 The dataset contains customer information from a bank.
@@ -51,6 +52,7 @@ The dataset contains customer information from a bank.
 **EstimatedSalary** -- Estimated annual salary
 
 **Exited** -- Churn status (1 = Churned, 0 = Retained)
+
 
 **🔄 Steps Followed**
 
@@ -116,6 +118,7 @@ The dataset contains customer information from a bank.
 
 •	Compiled findings, visualizations, insights, and recommendations into a structured report. 
 
+
 💡 **Key Business Insights**
 
 👥 **Customer Demographics**
@@ -141,6 +144,7 @@ The dataset contains customer information from a bank.
 •	Inactive members have significantly higher churn rates. 
 
 •	Customers with multiple products tend to remain loyal.
+
 
 📊 **Visualizations Created**
 
@@ -266,6 +270,7 @@ Purpose:
 
 Allows zooming, filtering, and hovering over data points. Also, enhances user interaction with visualizations. 
 
+
 📁 **Files Included**
 
 The project consists of the following files and folders:
@@ -276,6 +281,7 @@ The project consists of the following files and folders:
 
 📜 README.md - Project overview, setup instructions, and documentation.
 
+
 🚀 **How to Use**
 
 1. Open Bank Customer Churn Analysis.ipynb using Jupyter Notebook or JupyterLab.
@@ -283,6 +289,7 @@ The project consists of the following files and folders:
 2. Run the notebook cells step by step to view data cleaning, analysis, and visualizations.
    
 3. Modify the code to explore additional insights if needed.
+   
 
 ✅ **Recommendations**
 
@@ -304,9 +311,11 @@ The project consists of the following files and folders:
 
 •	Monitor high-balance customers for early churn indicators.
 
+
 📚 **Conclusion**
 
 This Bank Customer Churn Analysis project provides a comprehensive understanding of customer behavior and churn patterns. By leveraging Python's data analysis and visualization libraries, banks can make data-driven decisions to improve customer retention, increase customer satisfaction, and enhance long-term profitability.
+
 
 👤 **Author**
 
