@@ -10,9 +10,13 @@ Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory dat
 **🛠 Tools and Libraries Used**
 
 🐼 Pandas - Data manipulation and analysis
+
 🔢 NumPy - Numerical operations
+
 📊 Matplotlib - Data visualization
+
 🎨 Seaborn - Statistical visualization
+
 📓 Jupyter Notebook - Development environment
 
 **🗂 Dataset Description**
