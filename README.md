@@ -281,6 +281,8 @@ The project consists of the following files and folders:
 
 📜 README.md - Project overview, setup instructions, and documentation.
 
+📑 Bank Customer Churn Analysis Using Pandas - Project Documentation.
+
 
 🚀 **How to Use**
 
