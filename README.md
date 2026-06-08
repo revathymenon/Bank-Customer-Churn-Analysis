@@ -23,21 +23,33 @@ Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory dat
 
 The dataset contains customer information from a bank.
 
-**Column Name	Description**
+**Column Name	    Description**
 
 CustomerId	      Unique customer identifier
-Surname	      Customer surname
+
+Surname	          Customer surname
+
 CreditScore	      Credit score of customer
-Geography	      Customer country
-Gender	      Male/Female
-Age	            Customer age
-Tenure	      Number of years with bank
-Balance	      Account balance
-NumOfProducts	Number of bank products
-HasCrCard	      Credit card ownership
-IsActiveMember	Active membership status
-EstimatedSalary	Estimated annual salary
-Exited	      Churn status (1 = Churned, 0 = Retained)
+
+Geography	        Customer country
+
+Gender	          Male/Female
+
+Age	              Customer age
+
+Tenure	          Number of years with bank
+
+Balance	          Account balance
+
+NumOfProducts	    Number of bank products
+
+HasCrCard	        Credit card ownership
+
+IsActiveMember	  Active membership status
+
+EstimatedSalary	  Estimated annual salary
+
+Exited	          Churn status (1 = Churned, 0 = Retained)
 
 **🔄 Steps Followed**
 
