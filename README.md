@@ -3,10 +3,12 @@
 🏦 **Bank Customer Churn Analysis Using Pandas, Matplotlib, and Seaborn**
 
 📖 **Project Overview**
+
 Customer churn refers to customers who stop using a bank's services. Retaining existing customers is generally more cost-effective than acquiring new ones. This project analyzes customer data to identify patterns and factors contributing to customer churn.
 Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory data analysis (EDA), and visualization to uncover actionable business insights.
 
 **🛠 Tools and Libraries Used**
+
 🐼 Pandas - Data manipulation and analysis
 🔢 NumPy - Numerical operations
 📊 Matplotlib - Data visualization
@@ -14,7 +16,9 @@ Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory dat
 📓 Jupyter Notebook - Development environment
 
 **🗂 Dataset Description**
+
 The dataset contains customer information from a bank.
+
 **Column Name	Description**
 CustomerId	      Unique customer identifier
 Surname	      Customer surname
@@ -31,6 +35,7 @@ EstimatedSalary	Estimated annual salary
 Exited	      Churn status (1 = Churned, 0 = Retained)
 
 **🔄 Steps Followed**
+
 1️⃣ 📥 **Data Collection**
 •	Obtained the Bank Customer Churn dataset. 
 •	Loaded the dataset into a Pandas DataFrame. 
@@ -64,6 +69,7 @@ Exited	      Churn status (1 = Churned, 0 = Retained)
 •	Compiled findings, visualizations, insights, and recommendations into a structured report. 
 
 💡 **Key Business Insights**
+
 👥 **Customer Demographics**
 •	Customers aged above 45 show higher churn rates. 
 •	Female customers churn slightly more frequently. 
@@ -154,17 +160,20 @@ Purpose:
 Allows zooming, filtering, and hovering over data points. Also, enhances user interaction with visualizations. 
 
 📁 **Files Included**
+
 The project consists of the following files and folders:
 📈 Bank_Churn.csv – Original dataset used for customer churn analysis.
 📊 Bank Customer Churn Analysis.ipynb - Jupyter Notebook containing data cleaning, EDA, visualizations, and analysis.
 📜 README.md - Project overview, setup instructions, and documentation.
 
 🚀 **How to Use**
+
 1. Open Bank Customer Churn Analysis.ipynb using Jupyter Notebook or JupyterLab. 
 2. Run the notebook cells step by step to view data cleaning, analysis, and visualizations. 
 3. Modify the code to explore additional insights if needed.
 
 ✅ **Recommendations**
+
 🎯 Improve Customer Engagement
 •	Target inactive customers with loyalty programs. 
 •	Increase personalized communication. 
@@ -176,7 +185,9 @@ The project consists of the following files and folders:
 •	Monitor high-balance customers for early churn indicators.
 
 📚 **Conclusion**
+
 This Bank Customer Churn Analysis project provides a comprehensive understanding of customer behavior and churn patterns. By leveraging Python's data analysis and visualization libraries, banks can make data-driven decisions to improve customer retention, increase customer satisfaction, and enhance long-term profitability.
 
 👤 **Author**
+
 Revathy Menon | Aspiring Data Analyst
