@@ -6,7 +6,7 @@
 
 Customer churn refers to customers who stop using a bank's services. Retaining existing customers is generally more cost-effective than acquiring new ones. This project analyzes customer data to identify patterns and factors contributing to customer churn.
 
-Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory data analysis (EDA), and visualization to uncover actionable business insights.
+Using Pandas, Matplotlib, and Seaborn, perform data cleaning, exploratory data analysis (EDA), and visualization to uncover actionable business insights.
 
 **🛠 Tools and Libraries Used**
 
