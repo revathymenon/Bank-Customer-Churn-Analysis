@@ -27,29 +27,29 @@ The dataset contains customer information from a bank.
 
 **CustomerId** -- Unique customer identifier
 
-Surname	          Customer surname
+**Surname** -- Customer surname
 
-CreditScore	      Credit score of customer
+**CreditScore** -- Credit score of customer
 
-Geography	        Customer country
+**Geography** -- Customer country
 
-Gender	          Male/Female
+**Gender** -- Male/Female
 
-Age	              Customer age
+**Age** -- Customer age
 
-Tenure	          Number of years with bank
+**Tenure** -- Number of years with bank
 
-Balance	          Account balance
+**Balance** -- Account balance
 
-NumOfProducts	    Number of bank products
+**NumOfProducts** -- Number of bank products
 
-HasCrCard	        Credit card ownership
+**HasCrCard** -- Credit card ownership
 
-IsActiveMember	  Active membership status
+**IsActiveMember** -- Active membership status
 
-EstimatedSalary	  Estimated annual salary
+**EstimatedSalary** -- Estimated annual salary
 
-Exited	          Churn status (1 = Churned, 0 = Retained)
+**Exited** -- Churn status (1 = Churned, 0 = Retained)
 
 **🔄 Steps Followed**
 
