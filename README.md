@@ -54,55 +54,97 @@ The dataset contains customer information from a bank.
 **🔄 Steps Followed**
 
 1️⃣ 📥 **Data Collection**
+
 •	Obtained the Bank Customer Churn dataset. 
+
 •	Loaded the dataset into a Pandas DataFrame. 
+
 2️⃣ 🔍 **Data Understanding**
+
 •	Examined dataset structure, dimensions, and data types. 
+
 •	Reviewed column descriptions and business context. 
+
 3️⃣ 🧹 **Data Cleaning**
+
 •	Checked for missing values and duplicates. 
+
 •	Verified data quality and consistency. 
+
 4️⃣ 📊 **Exploratory Data Analysis (EDA)**
+
 •	Performed Univariate Analysis. 
+
 •	Performed Bivariate Analysis. 
+
 •	Performed Multivariate Analysis. 
+
 •	Generated statistical summaries. 
+
 5️⃣ 📈 **Data Visualization**
+
 •	Created bar charts, histograms, pie charts, box plots, scatter plots, and heatmaps. 
+
 •	Used subplots to compare multiple variables effectively. 
+
 6️⃣ 📋 **GroupBy & Pivot Table Analysis**
+
 •	Analyzed customer behavior using aggregation techniques. 
+
 •	Summarized key metrics across customer segments. 
+
 7️⃣ 🔥 **Correlation Analysis**
+
 •	Examined relationships between numerical features. 
+
 •	Identified variables strongly associated with churn. 
+
 8️⃣ 💡 **Business Insights Generation**
+
 •	Identified customer groups with higher churn probability. 
+
 •	Discovered patterns related to age, geography, balance, and activity status. 
+
 9️⃣ ✅ **Recommendations**
+
 •	Suggested customer retention strategies. 
+
 •	Proposed targeted engagement and loyalty initiatives. 
+
 🔟 📝 **Documentation & Reporting**
+
 •	Compiled findings, visualizations, insights, and recommendations into a structured report. 
 
 💡 **Key Business Insights**
 
 👥 **Customer Demographics**
+
 •	Customers aged above 45 show higher churn rates. 
+
 •	Female customers churn slightly more frequently. 
 
 🌍 **Geographic Trends**
+
 •	Germany has the highest churn rate. 
+
 •	France shows the highest retention rate. 
+
 💰 **Financial Behavior**
+
 •	Customers with higher balances are more likely to churn. 
+
 •	Credit score has limited impact on churn. 
+
 🏦 **Banking Activity**
+
 •	Inactive members have significantly higher churn rates. 
+
 •	Customers with multiple products tend to remain loyal.
 
 📊 **Visualizations Created**
+
 📉 **Bar Charts**
+
 Used for:
 •	Customer Churn Distribution 
 •	Churn by Gender
