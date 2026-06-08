@@ -24,6 +24,7 @@ Using Pandas, Matplotlib, and Seaborn, we perform data cleaning, exploratory dat
 The dataset contains customer information from a bank.
 
 **Column Name	Description**
+
 CustomerId	      Unique customer identifier
 Surname	      Customer surname
 CreditScore	      Credit score of customer
