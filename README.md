@@ -25,7 +25,7 @@ The dataset contains customer information from a bank.
 
 **Column Name	    Description**
 
-CustomerId	      Unique customer identifier
+**CustomerId** -- Unique customer identifier
 
 Surname	          Customer surname
 
