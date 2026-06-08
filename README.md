@@ -146,101 +146,161 @@ The dataset contains customer information from a bank.
 📉 **Bar Charts**
 
 Used for:
+
 •	Customer Churn Distribution 
+
 •	Churn by Gender
+
 Purpose:
+
 Compare categorical variables.
 
 🥧 **Pie Chart**
+
 Used for:
+
 •	Gender Distribution 
+
 Purpose:
+
 Display proportion of male vs female customers.
 
 📈 **Histogram**
+
 Used for:
+
 •	Age Distribution  
+
 Purpose:
+
 Understand distribution patterns.
 
 📦 **Box Plots**
+
 Used for:
-•	IsActive vs Churn 
+
+•	IsActive vs Churn
+
 Purpose:
+
 Identify outliers and spread of data.
 
 🔵 **Scatter Plot**
+
 Used for:
+
 •	Age vs Balance 
+
 Purpose:
+
 Study relationships between numerical variables.
 
 🔥 **Heatmap**
+
 Used for:
+
 •	Correlation Analysis 
+
 Purpose:
+
 Identify relationships among numerical features.
 
 📊 **Count Plot**
+
 Used for:
+
 •	Geography vs Churn
+
 Purpose:
+
 Displays the frequency of categorical variables. 
 
 📈 **Line Chart**
+
 Used for:
+
 •	Average Balance vs Tenure
+
 Purpose:
+
 Helps identify increasing or decreasing relationships.
 
 🎻 **Violin Plot**
+
 Used For
+
 •	Age Distribution by Gender
+
 Purpose:
+
 Provides deeper insight into the spread of values.
 
 🧩 **Pair Plot**
+
 Used For
+
 •	Age, Balance, Estimated Salary, and Churn Analysis
+
 Purpose:
+
 Displays pairwise relationships among multiple numerical variables.
 
 📑 **Subplots**
+
 Used For
+
 •	Display multiple charts in a single figure for easier comparison.
+
 Purpose:
+
 Improved dashboard appearance and better comparison across variables.
 
-
 ⚡ **Interactive Plotly Visualization**
+
 Used For
+
 •	Interactive Age vs Balance Analysis
+
 Purpose:
+
 Allows zooming, filtering, and hovering over data points. Also, enhances user interaction with visualizations. 
 
 📁 **Files Included**
 
 The project consists of the following files and folders:
+
 📈 Bank_Churn.csv – Original dataset used for customer churn analysis.
+
 📊 Bank Customer Churn Analysis.ipynb - Jupyter Notebook containing data cleaning, EDA, visualizations, and analysis.
+
 📜 README.md - Project overview, setup instructions, and documentation.
 
 🚀 **How to Use**
 
-1. Open Bank Customer Churn Analysis.ipynb using Jupyter Notebook or JupyterLab. 
-2. Run the notebook cells step by step to view data cleaning, analysis, and visualizations. 
+1. Open Bank Customer Churn Analysis.ipynb using Jupyter Notebook or JupyterLab.
+   
+2. Run the notebook cells step by step to view data cleaning, analysis, and visualizations.
+   
 3. Modify the code to explore additional insights if needed.
 
 ✅ **Recommendations**
 
 🎯 Improve Customer Engagement
+
 •	Target inactive customers with loyalty programs. 
+
 •	Increase personalized communication. 
+
 🎁 Product Bundling
+
 •	Encourage customers to use multiple banking products. 
+
 🌍 Region-Specific Strategies
+
 •	Focus retention campaigns in Germany. 
+
 👨‍💼 High-Value Customer Retention
+
 •	Monitor high-balance customers for early churn indicators.
 
 📚 **Conclusion**
